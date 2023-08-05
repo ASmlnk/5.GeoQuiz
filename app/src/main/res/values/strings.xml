@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">5.GeoQuiz</string>
+    <string name="question_australia">Канберра-столица Австрии</string>
+    <string name="true_button">Истина</string>
+    <string name="false_button">Ложь</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Не верно!</string>
+    <string name="next_button">Следующий</string>
+    <string name="previous_button">Предыдущий</string>
+    <string name="question_oceans">Тихий океан больше Атлантического.</string>
+    <string name="question_mideast">Суэцкий канал соединяет Красное море и Индийский океан.</string>
+    <string name="question_africa">Исток реки Нил находится в Египте.</string>
+    <string name="question_americas">Река Амазонка - самая длинная река в Северной и Южной Америке.</string>
+    <string name="question_asia">Озеро Байкал - самое старое и глубокое пресноводное озеро в мире.</string>
+    <string name="true_answer">Правильных ответов: %1$s%2$s</string>
+    <string name="warning_text">Ты уверен, что хочешь это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="cheat_button">Обман!</string>
+    <string name="judgment_toast">Обманывать - это неправильно.</string>
+
+</resources>
